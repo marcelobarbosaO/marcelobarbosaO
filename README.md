@@ -6,3 +6,6 @@ I am a web and mobile developer. Passionate about new technologies and fascinate
 - Instagram: <a href="https://instagram.com/marcelobarbosa_11" target="_blank">@marcelobarbosa_11</a>
 - Linkedin: <a href="https://www.linkedin.com/in/marcelobarbosa10/" target="_blank">marcelobarbosa10</a>
 - Twitter: <a href="https://twitter.com/marcelob_dev" target="_blank">@marcelob_dev</a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobarbosaO&show_icons=true&theme=radical)
